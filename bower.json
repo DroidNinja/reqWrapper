@@ -1,0 +1,27 @@
+{
+  "name": "requestWrapper",
+  "authors": [
+    "droidNinja <arun2007ind@gmail.com>"
+  ],
+  "description": "Its an ajax wrapper for handling all types of POST and GET request",
+  "main": "reqWrapper.js",
+  "keywords": [
+    "request",
+    "ajax",
+    "wrapper",
+    "cors",
+    "cross",
+    "domain",
+    "request",
+    "handler"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
